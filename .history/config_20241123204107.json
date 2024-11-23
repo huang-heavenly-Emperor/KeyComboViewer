@@ -1,0 +1,16 @@
+{
+    "display_duration": 5,
+    "max_lines": 5,
+    "debounce_time": 0.3,
+    "ui": {
+        "font": "微软雅黑",
+        "font_size": 14,
+        "background_color": "#2C2C2C",
+        "text_color": "#FFFFFF",
+        "opacity": 0.9,
+        "padding": 10,
+        "border_radius": 5,
+        "window_width": 300,
+        "position_offset": 20
+    }
+} 
