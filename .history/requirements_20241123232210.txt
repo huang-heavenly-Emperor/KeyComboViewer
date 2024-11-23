@@ -1,0 +1,18 @@
+expo-cli
+react-native-cli
+
+requests>=2.31.0
+python-dotenv>=1.0.0
+flask>=2.0.0
+
+# GUI和系统交互
+tkinter
+pynput>=1.7.6
+
+# 标准库依赖（不需要安装）
+# - json
+# - threading
+# - datetime
+# - os
+# - collections
+# - functools 
